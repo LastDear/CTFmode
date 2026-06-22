@@ -1,0 +1,8 @@
+{
+  "mod.ctfmode": "CTF Mode",
+  "itemGroup.ctfmode": "CTF Mode",
+  "block.ctfmode.control_point": "Control Point",
+  "message.ctfmode.admin_only": "Only admins can use control points",
+  "message.ctfmode.active_time": "Control point time: %s seconds",
+  "message.ctfmode.winner": "You won the control point event with %s seconds!"
+}
